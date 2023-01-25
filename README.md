@@ -1,5 +1,5 @@
 # Master Thesis
-This repository contains my Master Thesis from Paderborn University with title "Extending FluentTQL: Specifying taint flows through a DSL". The thesis was submitted on 21st October 2021.
+This repository contains my Master Thesis from Paderborn University with title "Extending FluentTQL: Specifying taint flows through a DSL". The thesis was submitted on 21st October 2021. Also, a user study was performed which can found on the following GitHub [repository](https://github.com/enriozuni/user_study).
 
 ## Abstract
 Domain-specific languages (DSLs) have become helpful in describing
